@@ -1,0 +1,15 @@
+{
+  "name": "an-ecommerce-startup",
+  "version": "1.0.0",
+  "description": "E-Commerce API using Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
